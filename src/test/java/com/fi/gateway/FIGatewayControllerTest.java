@@ -67,7 +67,7 @@ public class FIGatewayControllerTest {
 		
 		assertEquals(exampleResponseString, result.getResponse().getContentAsString());
 
-
+		
 	}
 	
 	
